@@ -1,7 +1,8 @@
 repo_name: ubogdan/ClinicalManager
 report_id: 488d7809802d9d385e91631dba4bf81e
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T21:24:44+00:00'
+timestamp: '2024-01-04T15:15:16+00:00'
 requested_by: sararaqueloliveira
 provider: github
 branch: master
@@ -17,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2155/yRNL7yTW.png
+  detection_source_url: https://github.com/ubogdan/ClinicalManager
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -28,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/ubogdan/ClinicalManager
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -38,6 +41,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ubogdan/ClinicalManager
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -48,6 +52,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ubogdan/ClinicalManager
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -59,6 +64,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   detection_source: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -72,7 +78,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Javascript MVC Frameworks
   image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -87,7 +93,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -100,6 +106,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/4221/7894478.png
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/go.mod
   detection_source: fhir-master/go.mod
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -112,6 +119,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -124,7 +132,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Concurrency Frameworks
   image_url: https://img.stackshare.io/service/1796/984368.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -137,6 +145,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Remote Procedure Call (RPC)
   image_url: https://img.stackshare.io/service/4670/default_d811b0ac72205af84aca21f967594338580be913.png
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/go.mod
   detection_source: fhir-master/go.mod
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -148,7 +157,8 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
-  detection_source: fhir-master/server/server_test.go
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/.travis.yml
+  detection_source: fhir-master/.travis.yml
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
 - name: Redis
@@ -160,6 +170,7 @@ tools:
   category: Data Stores
   sub_category: In-Memory Databases
   image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/go.mod
   detection_source: fhir-master/go.mod
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -172,6 +183,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ubogdan/ClinicalManager
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -182,6 +194,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/.eslintrc
   detection_source: client/.eslintrc
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -193,6 +206,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ubogdan/ClinicalManager
   detection_source: Repo Metadata
 - name: Jasmine
   description: DOM-less simple JavaScript testing framework
@@ -203,7 +217,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -217,7 +231,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Browser Testing
   image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -229,6 +243,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   detection_source: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -241,6 +256,7 @@ tools:
   category: Monitoring
   sub_category: Performance Monitoring
   image_url: https://img.stackshare.io/service/10794/EpBd2Xrw_400x400.jpg
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/go.mod
   detection_source: fhir-master/go.mod
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -254,7 +270,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -266,6 +282,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -279,6 +296,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Go Testing
   image_url: https://img.stackshare.io/service/8695/stretchr.png
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/go.mod
   detection_source: fhir-master/go.mod
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -291,6 +309,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/.travis.yml
   detection_source: fhir-master/.travis.yml
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -303,6 +322,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/fsharp-fhir-tools/fsharp-fhir-tools.sln
   detection_source: fhir-master/fsharp-fhir-tools/fsharp-fhir-tools.sln
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -314,6 +334,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -325,6 +346,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Landing Pages
   image_url: https://img.stackshare.io/service/80/Instapage_Icon_Circular_Icon.jpg
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -338,7 +360,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -352,7 +374,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -366,7 +388,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16358/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -380,7 +402,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -394,7 +416,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -408,7 +430,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -422,7 +444,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -436,7 +458,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -450,7 +472,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16047/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -464,7 +486,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16444/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -478,7 +500,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -492,7 +514,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -506,7 +528,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -520,7 +542,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17486/default_10a98ebc0146ab94b0fde6f7013c1279c82e4135.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -534,7 +556,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -548,7 +570,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16060/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -562,7 +584,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -576,7 +598,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -590,7 +612,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16521/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -604,7 +626,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -618,7 +640,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16066/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -632,7 +654,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -646,7 +668,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15998/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -660,7 +682,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -674,7 +696,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -688,7 +710,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -702,7 +724,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -716,7 +738,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
-  detection_source_url: client/package-lock.json
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/client/package-lock.json
   detection_source: client/package.json
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -730,7 +752,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14272/default_469613f4a4089442036bbc5c6732f28c4a0bf45f.png
-  detection_source_url: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   detection_source: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -745,7 +767,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13693/default_d38a6d88fa73fea0e64b3d75e3f75ff6aebf7b80.png
-  detection_source_url: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   detection_source: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -759,7 +781,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14328/default_f55b5d67842aa6392ca4cae898bfd7d268bb3404.png
-  detection_source_url: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   detection_source: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -774,7 +796,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12867/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
-  detection_source_url: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   detection_source: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -788,7 +810,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14557/default_8cc049a431381a977f6d2527a0530d69d5056b9a.png
-  detection_source_url: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   detection_source: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -802,7 +824,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14970/default_07ade81be04e341d8bd0772835ab2d3c452fbc90.png
-  detection_source_url: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   detection_source: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -817,7 +839,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14969/default_753dce338a1351731e4c43ce9405c65fd53151d4.png
-  detection_source_url: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   detection_source: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -832,7 +854,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13100/default_baa6c1c3e725b18a803052f0d13efd0ca49e5d50.png
-  detection_source_url: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   detection_source: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
@@ -846,13 +868,19 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/nuget/image.png
-  detection_source_url: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
+  detection_source_url: https://github.com/ubogdan/ClinicalManager/blob/master/fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   detection_source: fhir-master/fsharp-fhir-tools/HttpTests/packages.config
   last_updated_by: sararaqueloliveira
   last_updated_on: 2020-06-28 00:08:16.000000000 Z
   vulnerabilities:
-  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
     cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
     cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
     detected_date: Jun 23
     severity: high
