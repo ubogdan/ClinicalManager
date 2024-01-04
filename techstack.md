@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ubogdan/ClinicalManager is built on the following main stack:
+
 - [Instapage](https://instapage.com) – Landing Pages
 - [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - [Golang](http://golang.org/) – Languages
@@ -28,11 +29,13 @@ ubogdan/ClinicalManager is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ubogdan/ClinicalManager is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/80/Instapage_Icon_Circular_Icon.jpg' alt='Instapage'/> [Instapage](https://instapage.com) – Landing Pages
 - <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
@@ -59,14 +62,15 @@ ubogdan/ClinicalManager is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ubogdan/ClinicalManager](https://github.com/ubogdan/ClinicalManager)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|64<br/>Tools used|11/09/23 <br/>Report generated|
+|64<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -362,9 +366,9 @@ Full tech stack [here](/techstack.md)
 |[Hl7.Fhir.Support](https://www.nuget.org/Hl7.Fhir.Support)|v0.96.0|06/28/20|sararaqueloliveira |Other|N/A|
 |[Hl7.FhirPath](https://www.nuget.org/Hl7.FhirPath)|v0.96.0|06/28/20|sararaqueloliveira |Other|N/A|
 |[Mono.Cecil](https://www.nuget.org/Mono.Cecil)|v0.10.0|06/28/20|sararaqueloliveira |MIT|N/A|
-|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v9.0.1|06/28/20|sararaqueloliveira |MIT|[](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
+|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v9.0.1|06/28/20|sararaqueloliveira |MIT|[](https://github.com/advisories/GHSA-8rfx-6mr3-5jh3) (High)<br/>[CVE-2024-21907](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
